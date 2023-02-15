@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hthanhan671.github.io/TodoApp-React/static/css/main.c0a56560.css",
+    "main.js": "/hthanhan671.github.io/TodoApp-React/static/js/main.89838492.js",
+    "index.html": "/hthanhan671.github.io/TodoApp-React/index.html",
+    "main.c0a56560.css.map": "/hthanhan671.github.io/TodoApp-React/static/css/main.c0a56560.css.map",
+    "main.89838492.js.map": "/hthanhan671.github.io/TodoApp-React/static/js/main.89838492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a56560.css",
+    "static/js/main.89838492.js"
+  ]
+}
